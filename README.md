@@ -1,6 +1,6 @@
 # Weighted-Multifractal-Graph-Model
 
-Source code for communications physics submission "Discovering the Hidden Network Generating Rules from Partially Observed Complex Networks"
+Source code for communications physics submission "Hidden Network Generating Rules from Partially Observed Complex Networks"
 
 
 ## Synthetic networks and corresponding codes
